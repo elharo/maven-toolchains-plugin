@@ -76,7 +76,7 @@ JDK Toolchain discovery mechanism
 +---+
 <properties>
   <toolchain.jdk.version>[17,)</toolchain.jdk.version>
-<properties>
+</properties>
 
 <plugin>
   <groupId>org.apache.maven.plugins</groupId>
